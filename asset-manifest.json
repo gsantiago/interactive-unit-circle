@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/interactiva-unit-circle/static/js/main.1e581125.chunk.js",
-    "main.js.map": "/interactiva-unit-circle/static/js/main.1e581125.chunk.js.map",
-    "runtime~main.js": "/interactiva-unit-circle/static/js/runtime~main.f06057c5.js",
-    "runtime~main.js.map": "/interactiva-unit-circle/static/js/runtime~main.f06057c5.js.map",
-    "index.html": "/interactiva-unit-circle/index.html",
-    "precache-manifest.bd59bd415d8267639c183414156c3fd2.js": "/interactiva-unit-circle/precache-manifest.bd59bd415d8267639c183414156c3fd2.js",
-    "service-worker.js": "/interactiva-unit-circle/service-worker.js"
+    "main.js": "/interactive-unit-circle/static/js/main.1e581125.chunk.js",
+    "main.js.map": "/interactive-unit-circle/static/js/main.1e581125.chunk.js.map",
+    "runtime~main.js": "/interactive-unit-circle/static/js/runtime~main.93e11076.js",
+    "runtime~main.js.map": "/interactive-unit-circle/static/js/runtime~main.93e11076.js.map",
+    "index.html": "/interactive-unit-circle/index.html",
+    "precache-manifest.d0acf7344ab13377913fb2c96e6f91e9.js": "/interactive-unit-circle/precache-manifest.d0acf7344ab13377913fb2c96e6f91e9.js",
+    "service-worker.js": "/interactive-unit-circle/service-worker.js"
   }
 }

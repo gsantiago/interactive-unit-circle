@@ -1,3 +1,7 @@
 # Interactive Unit Circle
 
-![Screenshot](screenshot.png)
+[Click here](https://gsantiago.github.io/interactiva-unit-circle/) to access.
+
+---
+
+![Screen record](screen.gif)
